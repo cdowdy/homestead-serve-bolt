@@ -44,5 +44,5 @@ databases:
     - homestead
  ```  
  
- Once all that is setup you can then run `vagrant up`` or `` vagrant provision`` or ``vagrant up --provision`` 
+ Once all that is setup you can then run ``vagrant up`` or ``vagrant provision`` or ``vagrant up --provision`` 
  
