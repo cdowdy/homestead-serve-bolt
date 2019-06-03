@@ -1,3 +1,5 @@
+# NO LONGER MAINTAINED. NO FIXES OR UPDATES WILL BE DONE FOR THE CURRENT SUPPORTED VERSION BOLT OR ANY FUTURE VERSIONS OF BOLT CMS
+
 A Bolt CMS Site type for [Laravel Homestead](https://laravel.com/docs/5.5/homestead)  
 
   
